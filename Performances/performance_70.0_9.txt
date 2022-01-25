@@ -1,0 +1,2 @@
+343.15 K/ 70.0°C:
+{'overshoot_H1': 13.41, 'overshoot_H2': 12.056, 'rise_time_H1': 159.0, 'rise_time_H2': 206.0, 'steady_state_error_H1': 0.28, 'steady_state_error_H2': 0.625, 'settling_time_H1': 628.0, 'settling_time_H2': 771.0}
