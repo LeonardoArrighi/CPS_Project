@@ -1,0 +1,9 @@
+Variable,Value
+initial_oscillation_H1,0.6633409201469931
+initial_oscillation_H2,0.6337688266070813
+final_oscillation_H1,0.21974411300798236
+final_oscillation_H2,0.11094419358224739
+proximity_H1,0.6777892657772213
+proximity_H2,0.6545282710706033
+max_H1,68.52716196218546
+max_H2,68.80177632430878
